@@ -1,0 +1,11 @@
+.grid {
+  padding: 30px;
+  border: 1px solid gray;
+  transition: background-color 0.5s ease;
+  &-red {
+    background-color: red;
+  }
+  &-yellow {
+    background-color: yellow;
+  }
+}
