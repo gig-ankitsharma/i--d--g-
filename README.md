@@ -1,3 +1,3 @@
-#Adding gif to README.md file
+#Interactive diagonal grid
 
 ![](1735360881400.gif)
